@@ -6,9 +6,9 @@ Megalodon Sound is dedicated to creating cutting-edge guitar pedals that combine
 
 --
 
-## Please note that this file is a placeholder
+## Please note that this profile is a placeholder
 
-Everything in this file is subject to change.
+Everything in this profile is subject to change.
 
 ---
 
